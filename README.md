@@ -1,2 +1,2 @@
 # CODSOFT
-CODSOFT Virtual Internship of 4 weeks
+CODSOFT Virtual Internship of Titanic
