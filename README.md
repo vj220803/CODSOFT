@@ -1,4 +1,4 @@
-# _Titanic Survival Prediction_
+# **Titanic Survival Prediction**
 ## CODSOFT Internship Project
 
 ## Overview
