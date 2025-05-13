@@ -1,5 +1,5 @@
-# **Titanic Survival Prediction**
-# CODSOFT Internship Project
+# _Titanic Survival Prediction_
+## CODSOFT Internship Project
 
 ## Overview
 This project is a Machine Learning classification task to predict whether a passenger survived the Titanic disaster using historical data. The dataset used is the classic Titanic dataset, often considered a beginner-level dataset for supervised learning and data science projects.
