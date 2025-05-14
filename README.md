@@ -70,6 +70,8 @@ pip install -r requirements.txt
 2. Make sure you have Jupyter Notebook installed, or open it in Google Colab.
 3. Run all cells in Titanic_CODSOFT.ipynb sequentially
 
+UI Dashboard Screenshot: https://1drv.ms/i/c/0dc8d4ddd66f20c7/ERux01ZB7m9Fj80xxtEcYJYB4Rk1VBRfneDVRCfLV9F2PA?e=QJ78DD
+
 # Author
 Vijayan Naidu 
 MSc Data Science, Fergusson College, Pune
