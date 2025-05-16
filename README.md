@@ -1,6 +1,36 @@
 # **Titanic Survival Prediction**
 ## CODSOFT Internship Project
 
+<img src="Titanic - visual selection.png" width="300" style="border-radius: 10px;" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Overview
 This project is a Machine Learning classification task to predict whether a passenger survived the Titanic disaster using historical data. The dataset used is the classic Titanic dataset, often considered a beginner-level dataset for supervised learning and data science projects.
 Objective: Build a predictive model using features such as age, sex, ticket fare, class, etc., to determine the likelihood of survival.
