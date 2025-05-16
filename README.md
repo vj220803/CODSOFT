@@ -1,7 +1,7 @@
 # **Titanic Survival Prediction**
 ## CODSOFT Internship Project
 
-<img src="Titanic - visual selection.png" width="1000" style="border-radius: 10px;" />
+<img src="Titanic - flowchart.png" width="1000" style="border-radius: 10px;" />
 
 
 
