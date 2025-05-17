@@ -3,34 +3,6 @@
 
 <img src="Titanic - flowchart.png" width="1000" style="border-radius: 10px;" />
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Overview
 This project is a Machine Learning classification task to predict whether a passenger survived the Titanic disaster using historical data. The dataset used is the classic Titanic dataset, often considered a beginner-level dataset for supervised learning and data science projects.
 Objective: Build a predictive model using features such as age, sex, ticket fare, class, etc., to determine the likelihood of survival.
@@ -58,6 +30,12 @@ Titanic_CODSOFT/
 | `Cabin`       | Cabin number (many missing values)                                   |
 | `Embarked`    | Port of Embarkation (C = Cherbourg, Q = Queenstown, S = Southampton) |
 | `Survived`    | Survival status (0 = No, 1 = Yes - target variable)                  |
+
+
+## Features affecting Survival Rates of Paseengers
+![Features](titanic_feautres.png)
+<img src="titanic features.png" width="600" />
+
 
 ## Methodology
 Flowchart of major steps:
