@@ -33,8 +33,8 @@ Titanic_CODSOFT/
 
 
 ## Features affecting Survival Rates of Paseengers
-![Features](titanic_feautres.png)
-<img src="titanic_features.png" width="600" />
+![Features](titanic_feautres_n.png)
+<img src="titanic_features.png_n" width="600" />
 
 
 ## Methodology
