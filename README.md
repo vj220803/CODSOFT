@@ -68,19 +68,22 @@ Accuracy Score
 Confusion Matrix
 Classification Report
 
-# Dependencies
+## Files Relation
+![Titanic_flowchart](https://github.com/vj220803/Titanic_Survival/blob/main/Titanic_flowchart.png)
+
+## Dependencies
 pip install pandas numpy matplotlib seaborn scikit-learn
 or 
 pip install -r requirements.txt
 
-# Run the model
+## Run the model
 1. Clone the repository or download the notebook.
 2. Make sure you have Jupyter Notebook installed, or open it in Google Colab.
 3. Run all cells in Titanic_CODSOFT.ipynb sequentially
 
 UI Dashboard Screenshot: https://1drv.ms/i/c/0dc8d4ddd66f20c7/ERux01ZB7m9Fj80xxtEcYJYB4Rk1VBRfneDVRCfLV9F2PA?e=QJ78DD
 
-# Author
+## Author
 Vijayan Naidu 
 MSc Data Science, Fergusson College, Pune
 
